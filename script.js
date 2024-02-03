@@ -1,5 +1,4 @@
-// var apiKey = "15ebf4a18b0ca6d48058464a1f64d606"
-var apiKey = "df3fb9934a7d8ebae97c6749b588071a"
+var apiKey = "15ebf4a18b0ca6d48058464a1f64d606"
 var searchbtn = document.querySelector("#searchbtn")
 var searchinput = document.querySelector(".searchInput")
 var mainWeather = document.querySelector(".mainWeather")
